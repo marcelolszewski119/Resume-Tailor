@@ -5,7 +5,7 @@ AI-powered resume tailoring application that rewrites your resume to match a job
 ## Features
 
 - 📄 Upload your resume and job description
-- 🤖 AI-powered resume rewriting using OpenAI GPT
+- 🤖 AI-powered resume rewriting using OpenAI
 - 📊 ATS (Applicant Tracking System) score calculation
 - 📈 Before/after ATS score comparison
 - 🎯 Keyword optimization for better ATS compatibility
